@@ -1,6 +1,6 @@
-# Ignore dataset folder
+# Ignore dataset folders
 dataset_folder/
-
+test-dataset/
 # Python-related files
 __pycache__/
 *.py[cod]

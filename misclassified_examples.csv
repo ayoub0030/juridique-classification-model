@@ -1,0 +1,750 @@
+concepts,true_type,predicted_type,correct
+"1519, 155, 3071, 3165",Decision,Regulation,False
+"1634, 1921, 2162, 3885, 4045",Directive,Regulation,False
+"1234, 1321, 2504, 4585",Directive,Decision,False
+"1270, 4400",Regulation,Decision,False
+"2671, 3732, 5360, 5856, 807, 979",Decision,Regulation,False
+"1949, 2162, 3885, 4004, 4045, 4557",Directive,Regulation,False
+"1277, 1442, 6057",Directive,Regulation,False
+"2375, 2902, 3135, 3557, 4039, 82",Regulation,Decision,False
+"1102, 2069, 2321, 2775, 2845, 5334",Directive,Regulation,False
+"1474, 2324, 2850, 3584, 4057, 863",Regulation,Decision,False
+"1958, 2970, 336, 5373, 889, 980",Directive,Decision,False
+"2081, 2409, 3409, 4081, 4708, 87",Directive,Decision,False
+"2443, 2915, 5334, 5640, 6057, 6917",Regulation,Decision,False
+"2081, 3409, 4708",Decision,Regulation,False
+"1318, 1642, 20, 3170, 3732, 5360",Decision,Regulation,False
+"4256, 4298, 4327, 4337, 5334, 980",Directive,Regulation,False
+"2611, 2825, 2947, 4141, 718",Directive,Decision,False
+"1474, 209, 2850, 4324",Regulation,Decision,False
+"1100, 5673, 5890, 73",Regulation,Decision,False
+"1100, 4802, 5824, 889",Regulation,Decision,False
+"1474, 209, 2850, 4353",Regulation,Decision,False
+"2069, 4381, 5545",Decision,Regulation,False
+"2410, 2894, 322, 4258, 5123",Directive,Regulation,False
+"2897, 4654, 469, 5235, 5283, 5481, 5726",Directive,Decision,False
+"1261, 2713, 3191, 5334, 5481",Regulation,Decision,False
+"1318, 4081, 5360, 5451",Decision,Regulation,False
+"1642, 2302, 2671, 4650, 5034, 5334",Decision,Regulation,False
+"2439, 2621, 2938, 4734, 5334, 922",Decision,Regulation,False
+"1958, 2194, 246, 2680, 889, 980",Directive,Decision,False
+"1252, 3646, 4654, 4658, 468, 5234, 5235",Directive,Decision,False
+"1277, 13, 6052",Directive,Regulation,False
+"1021, 1095, 1234, 1313, 4585, 5811",Directive,Decision,False
+"1486, 3165, 5334, 5534, 5856, 979",Directive,Regulation,False
+"3130, 3482, 4522, 5420, 91",Regulation,Decision,False
+"1151, 1152, 1188, 1274, 2801, 862",Regulation,Decision,False
+"1513, 3073, 73, 889, 980",Regulation,Decision,False
+"1684, 1797, 2057, 3170, 4215, 807",Decision,Regulation,False
+"3275, 4256, 4327, 4734",Decision,Regulation,False
+"3191, 4160, 4682, 4689, 4692, 5369",Decision,Regulation,False
+"1445, 1821, 192, 4689, 619",Directive,Decision,False
+"1085, 1086, 2897, 4585",Directive,Decision,False
+"1763, 191, 2426, 2548, 3191, 322",Directive,Decision,False
+"1233, 1277, 2746, 87",Directive,Regulation,False
+"1445, 1755, 192, 2560, 4689, 619",Directive,Decision,False
+"1083, 1201, 889",Regulation,Decision,False
+"1474, 206, 2850, 4353",Regulation,Decision,False
+"1136, 1182, 1567, 2050, 4381, 4385",Decision,Regulation,False
+"4734, 5226, 5334, 889, 980",Decision,Regulation,False
+"2556, 2879, 3001, 4092, 5407, 5537",Decision,Regulation,False
+"1086, 1513, 1534, 2194, 2965, 2971, 5226, 979",Directive,Regulation,False
+"1277, 1442, 5967",Directive,Regulation,False
+"1182, 1519, 5363, 5420, 712",Regulation,Decision,False
+"1019, 1474, 161, 2228, 3774",Regulation,Decision,False
+"13, 2224, 2772, 3774, 4830, 946",Decision,Regulation,False
+"13, 1579, 3918, 4291, 87",Decision,Regulation,False
+"1073, 1074, 225, 5545, 5820",Decision,Regulation,False
+"1069, 5545, 957",Decision,Regulation,False
+"1255, 1374, 3191, 4682, 4689, 4692",Decision,Regulation,False
+"1445, 1644, 3191, 4324, 4682, 4689, 4692",Decision,Regulation,False
+"1616, 1637, 2488, 2758, 2771, 5969",Decision,Regulation,False
+"1445, 1612, 2877, 3259, 4576, 5034, 5047, 5413",Directive,Decision,False
+"1958, 2970, 2971, 4771, 889, 980",Directive,Decision,False
+"1233, 13, 1919, 720, 893",Directive,Regulation,False
+"1667, 1668, 2081, 4081",Directive,Regulation,False
+"1755, 1759, 5334, 837",Directive,Decision,False
+"1374, 2231, 3191, 4682, 4689",Decision,Regulation,False
+"1598, 1755, 2560, 5034, 619, 994",Directive,Decision,False
+"1144, 2439, 2938, 4708, 889, 980",Regulation,Decision,False
+"1182, 4066, 4298, 4771",Regulation,Decision,False
+"1120, 1519, 1637, 2488",Decision,Regulation,False
+"1474, 863, 946",Decision,Regulation,False
+"1637, 2488, 2754",Decision,Regulation,False
+1026,Decision,Regulation,False
+"2228, 588, 863",Decision,Regulation,False
+"4062, 4411, 588",Decision,Regulation,False
+"4056, 723, 922",Decision,Regulation,False
+"1397, 1418, 4839, 995",Decision,Regulation,False
+"215, 3217, 3844",Decision,Regulation,False
+"4411, 51, 588, 5969",Decision,Regulation,False
+"1958, 2970, 2971, 4771, 889, 980",Directive,Decision,False
+"192, 4687, 4689, 619",Directive,Decision,False
+"2069, 2321, 2751, 3732",Directive,Regulation,False
+"4539, 4654, 5710",Directive,Decision,False
+"1519, 2497, 3424, 3682, 937",Regulation,Decision,False
+1091,Regulation,Decision,False
+"1270, 618",Regulation,Decision,False
+"2543, 4062, 588",Decision,Regulation,False
+"1102, 1474, 863, 946",Decision,Regulation,False
+"2525, 2696, 4210, 4225, 4310",Decision,Regulation,False
+"1025, 2644, 5025",Decision,Regulation,False
+"1117, 1309, 4347, 863",Decision,Regulation,False
+"1074, 1634, 2897, 2932",Decision,Directive,False
+"1605, 1637, 2488, 863",Decision,Regulation,False
+"3123, 4691",Decision,Regulation,False
+"2077, 2300, 2548",Decision,Regulation,False
+"1372, 1465, 2320, 4839",Decision,Regulation,False
+"2300, 588, 996",Decision,Regulation,False
+"1896, 2076",Directive,Regulation,False
+"1425, 2792, 2947, 3139, 5017, 720",Directive,Decision,False
+"1005, 1372, 3633, 5123, 922",Directive,Decision,False
+"4308, 6004",Directive,Decision,False
+"2487, 3577, 4575, 5065, 888",Regulation,Decision,False
+"1182, 5962",Regulation,Decision,False
+"3191, 4683, 4691, 5263",Regulation,Decision,False
+"4373, 6050",Decision,Regulation,False
+"1309, 2300, 4350, 5065",Decision,Regulation,False
+"1637, 3591",Decision,Regulation,False
+"1309, 1318, 4580, 990",Decision,Regulation,False
+"2300, 2563, 4316",Decision,Regulation,False
+"2291, 3673",Decision,Regulation,False
+"1712, 979",Decision,Regulation,False
+"588, 5993, 863",Decision,Regulation,False
+"1486, 3165, 5334, 5856, 979",Directive,Regulation,False
+"1234, 1638, 2602, 4585, 935",Directive,Decision,False
+"5334, 6013, 933, 979",Regulation,Decision,False
+"1309, 1474, 2730, 4083",Regulation,Decision,False
+"2758, 2850, 3763, 5403",Regulation,Decision,False
+"2493, 2563, 766, 980",Regulation,Decision,False
+"3052, 663",Regulation,Decision,False
+"1030, 4081",Regulation,Decision,False
+"4829, 5235, 848",Regulation,Decision,False
+"1474, 3156, 4324, 4353, 4499",Regulation,Decision,False
+"1277, 2897, 6048",Decision,Directive,False
+"1616, 1637, 2488, 2771, 5969",Decision,Regulation,False
+"3763, 3864, 588",Decision,Regulation,False
+"1474, 2018, 2556, 544",Decision,Regulation,False
+"1154, 4056",Decision,Regulation,False
+"4056, 723, 922",Decision,Regulation,False
+"2288, 2979",Decision,Regulation,False
+"2882, 4039, 4045, 4074, 616",Decision,Regulation,False
+"2932, 4509, 4515, 4526, 4542, 545",Directive,Decision,False
+"1035, 5283, 786, 80, 862, 922",Regulation,Decision,False
+"1091, 3809",Regulation,Decision,False
+"1519, 4717",Regulation,Decision,False
+"2987, 3763, 588",Decision,Regulation,False
+"3052, 5201, 863, 976",Decision,Regulation,False
+"1504, 3052, 5201, 976",Decision,Regulation,False
+"2735, 4284, 4839, 807",Decision,Regulation,False
+"2965, 4839, 4854, 766",Decision,Regulation,False
+"1309, 235, 2430, 4375, 5332, 770",Decision,Regulation,False
+"2735, 3774, 4284, 807",Decision,Regulation,False
+"4040, 5086",Decision,Regulation,False
+"2658, 2735, 2739, 2897",Decision,Directive,False
+"1031, 1260, 13, 863",Decision,Regulation,False
+"1120, 1309, 1519, 4347",Decision,Regulation,False
+"12, 2173, 2734, 4350, 863",Decision,Regulation,False
+"2725, 2965, 4298, 4839",Decision,Regulation,False
+"1504, 1513, 2965",Decision,Regulation,False
+"1565, 2763, 2965, 2971, 4839, 666",Decision,Regulation,False
+"1598, 1929, 2773, 3815",Directive,Decision,False
+"1309, 365, 4133, 4585",Directive,Decision,False
+"1015, 1091, 1234, 3191, 4400, 4511, 4519, 4585",Directive,Decision,False
+"1076, 3003, 3060, 3489, 4829, 922",Regulation,Decision,False
+"1030, 4081, 5272",Regulation,Decision,False
+"1026, 3557, 4043, 5328",Regulation,Decision,False
+"1182, 252, 2965, 766",Decision,Regulation,False
+"2300, 3837, 588",Decision,Regulation,False
+"2965, 2979, 863",Decision,Regulation,False
+"2763, 2965, 3780, 663",Decision,Regulation,False
+"1565, 2563, 2763, 4667, 826, 873",Decision,Regulation,False
+"1085, 1277, 1565, 4650, 4682, 889",Decision,Regulation,False
+"1309, 1524, 1723, 2286, 3176, 519",Decision,Regulation,False
+"1642, 1885, 946",Decision,Regulation,False
+"12, 2563, 4031, 4350, 4353, 863",Decision,Regulation,False
+"12, 2563, 4031, 4324, 4350, 863",Decision,Regulation,False
+"1069, 1076, 4514, 5317, 5545",Decision,Regulation,False
+"213, 2478, 2917, 5354",Decision,Regulation,False
+"1254, 235, 3856, 588",Decision,Regulation,False
+"12, 2563, 4031, 4320, 4350, 863",Decision,Regulation,False
+"1616, 1881, 2084, 3577, 4031, 618",Decision,Regulation,False
+"1837, 235, 3805, 588",Decision,Regulation,False
+1241,Directive,Regulation,False
+"1015, 1091, 4511, 4519, 4585",Directive,Decision,False
+"1840, 2773, 3789, 3813, 5451, 87",Directive,Regulation,False
+"1590, 2735, 2963, 5581, 741",Directive,Decision,False
+"2729, 6052",Directive,Regulation,False
+"1318, 1329, 2970, 2979, 889, 980",Directive,Decision,False
+"1280, 1424, 5612, 5810, 825",Directive,Regulation,False
+"1074, 2326, 3681, 4047, 4533",Directive,Decision,False
+"1309, 2089, 3774",Regulation,Decision,False
+"1005, 1476",Regulation,Decision,False
+"1030, 4081",Regulation,Decision,False
+"1309, 2089, 2488, 3774",Regulation,Decision,False
+"1519, 4717",Regulation,Decision,False
+"2300, 2563, 4316",Decision,Regulation,False
+"1136, 2850, 4381, 5020, 5749",Decision,Regulation,False
+"1309, 4062, 5063",Decision,Regulation,False
+"1565, 2763, 2972, 3774",Decision,Regulation,False
+"1445, 1929, 2211, 4810, 5252",Decision,Regulation,False
+"1182, 6007",Decision,Regulation,False
+"1309, 2522, 2739, 3591, 3967",Decision,Regulation,False
+"1318, 347, 3866, 4617, 6047, 753",Decision,Regulation,False
+"1416, 2816, 478, 50, 5181, 529",Decision,Regulation,False
+"207, 209, 2525, 5404",Decision,Regulation,False
+"3135, 4074, 5234, 5314, 720, 758",Directive,Decision,False
+6052,Directive,Regulation,False
+"2825, 453, 513, 77, 92",Directive,Decision,False
+"1280, 2884, 4039, 4557, 5287, 5612",Directive,Regulation,False
+"1280, 2324, 2824, 3502, 4039, 4308",Directive,Regulation,False
+"2493, 5373",Regulation,Decision,False
+"1309, 2089, 3774",Regulation,Decision,False
+"2198, 4000, 4256, 5181, 92",Regulation,Decision,False
+"1025, 1085, 3217, 5034",Regulation,Decision,False
+"1030, 4081, 5272",Regulation,Decision,False
+"1005, 1433, 2457, 2792, 3299",Regulation,Decision,False
+"2217, 2718, 2734, 2971, 889, 980",Regulation,Decision,False
+"1159, 133, 1504, 2563, 863",Decision,Regulation,False
+"1309, 2077, 2409, 2548",Decision,Regulation,False
+"2560, 2738, 4692, 4778, 5369",Decision,Regulation,False
+"4062, 519, 588, 888",Decision,Regulation,False
+"2735, 3295, 80, 807",Decision,Regulation,False
+"1182, 2002, 4493, 6007",Decision,Regulation,False
+"3579, 4683, 4691",Regulation,Decision,False
+"133, 4829, 5228, 5235, 598, 997",Regulation,Decision,False
+"133, 4829, 5228, 5235, 598, 997",Regulation,Decision,False
+"2689, 2777, 4689, 4691, 5263",Regulation,Decision,False
+"4081, 870",Regulation,Decision,False
+"133, 4829, 5228, 5235, 598, 997",Regulation,Decision,False
+"2300, 2783, 4347",Regulation,Decision,False
+"1085, 1182, 1318, 64",Regulation,Decision,False
+"1318, 2286, 4829, 5228, 598, 997",Regulation,Decision,False
+"1318, 2286, 4829, 4839, 5228, 598",Regulation,Decision,False
+"1338, 2771, 3579, 3892",Regulation,Decision,False
+"2286, 4829, 5228, 5235, 598, 997",Regulation,Decision,False
+"2783, 3763, 474",Decision,Regulation,False
+"1201, 1475, 3774, 797",Decision,Regulation,False
+"1120, 1519, 2488",Decision,Regulation,False
+"1309, 1417, 161, 3824",Decision,Regulation,False
+"2081, 336, 4692, 5263",Decision,Regulation,False
+"1159, 1308, 2556, 3502, 4320",Decision,Regulation,False
+"1035, 133, 1519, 2455, 4829, 5123",Decision,Regulation,False
+"3143, 3648, 4654, 848",Directive,Decision,False
+"2430, 4654, 4658, 5481",Directive,Decision,False
+"177, 2215, 2527, 2792, 3885, 5310",Directive,Decision,False
+"1015, 1395, 1730, 2563, 5076, 863",Directive,Regulation,False
+"1591, 1837, 2300",Regulation,Decision,False
+"3581, 3892, 4835, 835, 889",Regulation,Decision,False
+"1318, 3043, 4829, 5228, 5235, 598",Regulation,Decision,False
+"1261, 2938, 797",Decision,Regulation,False
+"2965, 3384, 3679",Decision,Regulation,False
+"1744, 191, 2081, 4081, 4472, 4580",Decision,Regulation,False
+"1591, 2205, 2474, 588, 5969",Decision,Regulation,False
+"1810, 20, 2821, 441, 6043, 952",Decision,Regulation,False
+"2247, 2563, 388, 4482, 4617, 692",Decision,Regulation,False
+"1201, 1961, 2081, 2320, 2563, 2879",Decision,Regulation,False
+"1644, 2300, 2563, 3167, 4316",Decision,Regulation,False
+"1277, 1997, 6052",Directive,Regulation,False
+"1552, 1907, 4314, 4498, 6052",Directive,Regulation,False
+"1078, 13, 1448, 1602, 3409, 878",Directive,Decision,False
+"1078, 13, 1448, 322, 3409, 878",Directive,Decision,False
+"1030, 4081, 5272",Regulation,Decision,False
+"4790, 4829, 5228, 5235, 598, 997",Regulation,Decision,False
+"1019, 1474, 2734, 3462, 4353, 4692",Regulation,Decision,False
+"367, 4031, 4068, 424, 4369, 77",Regulation,Decision,False
+"1035, 1159, 3544, 5123, 915, 941",Decision,Regulation,False
+"2355, 2563, 3743, 4050, 797, 889",Decision,Regulation,False
+"1873, 2793, 2965, 3679, 863, 936",Decision,Regulation,False
+"1184, 2979",Decision,Regulation,False
+"1273, 4133, 427, 4449, 6056, 83",Decision,Regulation,False
+"1567, 161, 2543, 2758, 4676",Decision,Regulation,False
+"1120, 140, 2713, 4748",Decision,Regulation,False
+"1158, 3140, 3885, 4125, 4519, 4521, 491, 5336",Decision,Regulation,False
+"13, 2394, 2734, 3713, 666, 980",Decision,Regulation,False
+"142, 2063, 3648, 3861, 642, 893",Directive,Decision,False
+"1442, 2078, 2737, 2763, 3469, 5360",Directive,Regulation,False
+"1019, 2325, 3131, 4035, 4057, 4320",Directive,Decision,False
+"1591, 321, 3837, 519, 5969",Regulation,Decision,False
+"192, 2739, 3342, 3730, 5283, 616",Regulation,Decision,False
+"2286, 2356, 2560, 3065, 4692",Regulation,Decision,False
+"1228, 3219, 3490, 3870",Regulation,Decision,False
+"1144, 2563, 3275, 755, 80, 976",Decision,Regulation,False
+"1445, 1755, 2084, 2437, 3579, 893",Decision,Regulation,False
+"1239, 13, 2394, 2734, 666, 980",Decision,Regulation,False
+"1644, 192, 3591, 4682, 4688, 5083",Decision,Regulation,False
+"13, 2394, 2734, 3918, 666, 980",Decision,Regulation,False
+"1015, 1234, 1267, 171, 2247, 3772",Directive,Decision,False
+"1318, 2356, 2560, 3065, 4692, 862",Regulation,Decision,False
+"1346, 3003, 5563, 5840, 899, 914",Regulation,Decision,False
+"1035, 2216, 2320, 2455, 2894, 5138",Regulation,Decision,False
+"1474, 2556, 3001, 33, 5228, 5255",Regulation,Decision,False
+"1006, 2718, 4128, 4129, 4843, 73",Regulation,Decision,False
+"2738, 3331, 4284, 5283, 807, 826",Regulation,Decision,False
+"2247, 26, 3862, 4125, 929",Regulation,Decision,False
+"133, 4829, 5228, 5235, 997",Decision,Regulation,False
+"1318, 2069, 2519, 3156, 502, 5751",Decision,Regulation,False
+"191, 2081, 2773, 2985, 3135, 4474",Decision,Directive,False
+"13, 191, 2081, 2985",Decision,Directive,False
+"1136, 2050, 2525, 2734, 2957, 5403",Decision,Regulation,False
+"1277, 1997, 5734, 5740, 5967, 6052",Directive,Regulation,False
+"2611, 3163, 3681, 4033, 4522, 616",Directive,Decision,False
+"2325, 2326, 3646, 3648",Directive,Decision,False
+"1598, 1755, 192, 2737, 5369, 613",Directive,Decision,False
+"1318, 2356, 2560, 3065, 4692, 862",Regulation,Decision,False
+"1160, 2014, 2194, 2825, 4412, 5962",Regulation,Decision,False
+"1642, 2557, 2647, 4496, 5461, 5542",Decision,Regulation,False
+"1019, 183, 2474, 4878, 69, 815",Decision,Regulation,False
+"2897, 3641, 3648, 3701, 4424, 5929",Decision,Directive,False
+"1562, 1826, 2897, 4856, 5235, 5726",Decision,Directive,False
+"1116, 1501, 2771, 3579, 3885, 4307",Decision,Regulation,False
+"1686, 2734, 2735, 3173, 3661, 6059",Decision,Regulation,False
+"20, 4860, 5025, 5283",Decision,Regulation,False
+"1280, 4039, 4307, 5234",Directive,Regulation,False
+"1505, 157, 3774, 5739, 6051, 820",Directive,Decision,False
+"1318, 1445, 1755, 1857, 5034, 797",Regulation,Decision,False
+"2192, 3646, 4033, 4533, 468, 5383",Regulation,Directive,False
+"1474, 1899, 2081, 2871, 5018, 888",Regulation,Decision,False
+"1743, 2218, 2933, 3489, 4778, 584",Regulation,Decision,False
+"1019, 2871, 4081, 4320, 5360, 5581",Regulation,Decision,False
+"2437, 4829, 5228, 5235, 5254, 915",Decision,Regulation,False
+"1395, 2734, 2737, 3156, 4499, 5018",Decision,Regulation,False
+"1309, 1591, 2739, 519, 5969",Decision,Regulation,False
+"1743, 3228, 3474, 3480, 3906, 5469",Decision,Regulation,False
+"2081, 2773, 2985, 3730, 3885, 5451",Decision,Directive,False
+"1309, 2378, 4653, 519, 5969, 932",Decision,Regulation,False
+"1474, 2306, 2556, 33, 5228, 5537",Decision,Regulation,False
+"2279, 4006, 5522, 5588",Decision,Regulation,False
+"2194, 2247, 2965, 3084, 5541, 6042",Decision,Regulation,False
+"2850, 4057, 4385, 5406, 5750, 5859",Decision,Regulation,False
+"1277, 1309, 1442, 2300, 3115, 4125",Directive,Regulation,False
+"1115, 1442, 1602, 2737, 3469, 5360",Directive,Regulation,False
+"2830, 4152, 4533, 4658, 5235, 6012",Regulation,Decision,False
+"2040, 2571, 4515, 4827, 5235",Regulation,Decision,False
+"1474, 2916, 2924, 3461, 5344, 5946",Regulation,Decision,False
+"12, 226, 427, 5315, 5781, 862",Regulation,Decision,False
+"3557, 3843, 4043, 4044, 4370, 5328",Regulation,Decision,False
+"174, 189, 3119, 5158, 763",Regulation,Decision,False
+"1309, 1524, 2125, 2771, 4432, 519",Decision,Regulation,False
+"1644, 2771, 3591, 4682, 5083",Decision,Regulation,False
+"1125, 3259, 3452, 411",Decision,Regulation,False
+"1474, 2556, 2850, 4148, 544, 5537",Decision,Regulation,False
+"1309, 1837, 2336, 2696, 2771, 996",Decision,Regulation,False
+"1712, 192, 4682, 4821, 5034, 893",Decision,Regulation,False
+"39, 4038, 5110, 5519",Decision,Regulation,False
+"1598, 1644, 2300, 2738, 3191",Decision,Regulation,False
+"134, 1879, 4031, 4801, 5463, 865",Decision,Regulation,False
+"142, 1425, 3861, 893",Directive,Regulation,False
+"1234, 1321, 2602, 4392, 4585, 4878",Directive,Decision,False
+"2352, 3575, 4252, 4542, 592",Directive,Decision,False
+"1005, 2298, 2792, 5575, 979",Regulation,Decision,False
+"1488, 2798, 4038, 5344, 616",Regulation,Decision,False
+"1780, 4388, 488, 5723, 5903",Regulation,Decision,False
+"1616, 2488, 3591, 3824, 5403, 5946",Decision,Regulation,False
+"1445, 2737, 3584, 4687, 4692",Decision,Regulation,False
+"1974, 2216, 2443, 3774, 4370, 4390",Decision,Regulation,False
+"4256, 4509, 4511, 4522",Decision,Regulation,False
+"1637, 2081, 2215, 2739, 3591, 4308",Decision,Regulation,False
+"2938, 4708, 4734, 862, 922",Decision,Regulation,False
+"1335, 1830, 2897, 4036",Decision,Directive,False
+"1309, 2696, 2771, 2783, 4375",Decision,Regulation,False
+"2739, 3191, 4308, 616, 946",Decision,Regulation,False
+"11, 235, 2450, 2773, 2839, 3584",Decision,Regulation,False
+"3107, 3117, 3127, 3645, 4521, 4658",Directive,Regulation,False
+"1452, 174, 1971, 2149, 560, 729",Directive,Regulation,False
+"1115, 1602, 2735, 2737, 3469, 5360",Directive,Regulation,False
+"1026, 1048, 2300, 2902, 3843, 4390",Regulation,Decision,False
+"367, 4031, 4068, 424, 4369, 77",Regulation,Decision,False
+"2488, 3115, 3824, 5063, 5343, 946",Regulation,Decision,False
+"1019, 1091, 3591, 4883, 5581",Regulation,Decision,False
+"192, 4821, 5034, 616, 937",Regulation,Decision,False
+"2718, 4288, 4291, 862",Regulation,Decision,False
+"1021, 11, 3173, 3581, 5040, 601",Decision,Regulation,False
+"4353, 4713, 4726, 5581",Decision,Regulation,False
+"2286, 2771, 4687, 893",Decision,Regulation,False
+"1159, 133, 2110, 3468, 4790, 5873",Decision,Regulation,False
+"1159, 133, 4125, 5228, 5283, 6025",Decision,Regulation,False
+"1182, 1264, 20, 4288, 862, 863",Decision,Regulation,False
+"1309, 1338, 2771, 4819, 5065, 519",Decision,Regulation,False
+"12, 1542, 2965, 3003, 5619, 862",Decision,Regulation,False
+"1309, 2543, 2754, 2771, 519",Decision,Regulation,False
+"1309, 1445, 2300, 2711, 2737, 4079",Decision,Regulation,False
+"2136, 2563, 3003, 797",Decision,Regulation,False
+"1170, 1425, 2735, 5451, 6052, 893",Decision,Regulation,False
+"161, 3173, 4048, 4713, 5018, 5898",Decision,Regulation,False
+"3117, 3681, 4033, 5234, 5614, 5726",Directive,Decision,False
+"1755, 192, 2211, 5252, 619",Directive,Decision,False
+"13, 2773, 2985",Directive,Decision,False
+"2081, 2357, 2985, 616",Directive,Regulation,False
+"262, 3169, 4877, 5513, 5542",Directive,Regulation,False
+"13, 2773, 2985, 2987",Directive,Decision,False
+"13, 2773, 2985, 3646",Directive,Decision,False
+"1118, 2410, 2709, 322, 4257, 5123",Directive,Regulation,False
+"1284, 132, 1425, 1571, 1792, 720, 893",Directive,Decision,False
+"1946, 3854, 4050, 4562, 5283, 6008",Regulation,Decision,False
+"2247, 4005, 4359, 5405, 5796",Regulation,Decision,False
+"2442, 2470, 5034, 715",Regulation,Decision,False
+"1309, 2345, 2771, 3885, 5369, 5969",Decision,Regulation,False
+"1519, 473, 4734, 889",Decision,Regulation,False
+"1309, 1338, 1591, 1837, 2771, 519",Decision,Regulation,False
+"1092, 3259, 3560, 5648, 616",Decision,Regulation,False
+"3579, 3885, 5451, 6052, 93",Decision,Regulation,False
+"1005, 1318, 3342, 4708, 4734, 5070",Decision,Regulation,False
+"1120, 1988, 2965, 3003, 862, 863",Decision,Regulation,False
+"11, 1309, 3584, 79, 888",Decision,Regulation,False
+"1686, 2955, 5859",Decision,Regulation,False
+"2897, 3681, 4033, 4514, 4519, 5234",Decision,Directive,False
+"1876, 2306, 2556, 2879, 5228, 5537",Decision,Regulation,False
+"2563, 4734, 5575, 862, 922",Decision,Regulation,False
+"1309, 1338, 1988, 2771, 5065, 996",Decision,Regulation,False
+"1876, 2308, 2556, 5537",Decision,Regulation,False
+"1595, 1763, 191, 2232, 2827",Directive,Decision,False
+"142, 1425, 3861, 5696",Directive,Decision,False
+"2602, 30, 3010, 3017, 4361, 4424, 4428, 539, 6088, 6139",Directive,Decision,False
+"3119, 3449, 4763, 5455",Regulation,Decision,False
+"172, 2039, 3645, 5235, 616, 849, 906",Regulation,Decision,False
+"192, 2739, 3730, 4039, 4308, 616",Regulation,Decision,False
+"1063, 13, 3409, 486, 616",Regulation,Decision,False
+"1005, 1422, 2218, 2443, 2792, 3220, 712, 978",Regulation,Decision,False
+"1063, 13, 3409, 4081, 4441",Regulation,Decision,False
+"161, 2488, 2734, 2771, 4078, 5403, 5860, 613",Decision,Regulation,False
+"1216, 2556, 2850, 3465, 5537",Decision,Regulation,False
+"161, 2734, 4048, 5898",Decision,Regulation,False
+"4003, 4005, 5405, 5796",Decision,Regulation,False
+"1309, 2723, 2735, 3135, 3885, 4014, 4038, 6621",Decision,Regulation,False
+"1255, 1445, 2737, 2771, 3763, 5540",Decision,Regulation,False
+"1000, 1052, 1335, 2563, 5419, 881",Decision,Regulation,False
+"2783, 3462, 3591, 5403, 5458, 614",Decision,Regulation,False
+"1240, 1250, 1442, 1590, 2594",Directive,Decision,False
+"2078, 2193, 2357, 2735, 3732, 4059, 4497, 4571, 4994, 5360",Directive,Regulation,False
+"191, 2357, 2987, 5451",Directive,Decision,False
+"2078, 2723, 2735, 2737, 2836, 3469, 5360",Directive,Regulation,False
+"1284, 1442, 1590, 2735, 3135",Directive,Decision,False
+"2198, 4256, 441, 4509, 4533, 5908, 616",Regulation,Decision,False
+"1309, 1596, 192, 2300, 2737, 3614, 5581",Regulation,Decision,False
+"189, 3666, 5399, 6064, 6128",Regulation,Decision,False
+"1309, 1445, 1854, 2089, 2211, 247, 2738, 5034, 5252",Regulation,Decision,False
+"1445, 4152, 4533, 5034, 5462",Regulation,Decision,False
+"5283, 5455, 6151, 665, 729",Decision,Regulation,False
+"1442, 1605, 2836, 3579, 6038",Decision,Regulation,False
+"1005, 1258, 1277, 1442, 2845",Decision,Regulation,False
+"1182, 4734, 5575, 862, 922",Decision,Regulation,False
+"1442, 239, 2735, 2763, 5451, 6569, 893",Decision,Regulation,False
+"1048, 1973, 2300, 274, 3843, 4390, 665",Decision,Regulation,False
+"4734, 5898",Decision,Regulation,False
+"1774, 4734",Decision,Regulation,False
+"1474, 2173, 2222, 3732, 614",Decision,Regulation,False
+"1708, 2338, 3870, 4778, 7137",Decision,Regulation,False
+"13, 1837, 2735, 2739, 2746, 28, 3885",Directive,Regulation,False
+"192, 5233, 5234, 5293",Directive,Decision,False
+"1284, 1590, 2735, 5967, 6039",Directive,Decision,False
+"1631, 3648, 3681, 5234, 945",Directive,Decision,False
+"2081, 2985, 616",Directive,Regulation,False
+"1141, 4025",Directive,Regulation,False
+"2081, 2985",Directive,Regulation,False
+"1284, 1318, 1425, 2730, 4353, 5573",Directive,Decision,False
+"2771, 3579, 3824, 5876",Regulation,Decision,False
+"13, 1595, 3409, 943",Regulation,Decision,False
+"1085, 1158, 1712, 1895, 4258, 4353, 5581, 718",Regulation,Decision,False
+"1309, 1445, 192, 2300, 2737, 2771, 4225",Regulation,Decision,False
+"13, 2773, 2985, 3618, 4308, 5451",Regulation,Decision,False
+"1338, 1591, 2421, 2771, 4375, 6223",Regulation,Decision,False
+"1026, 1048, 2300, 4271",Regulation,Decision,False
+"1372, 2965, 5541, 889",Regulation,Decision,False
+"12, 1542, 3003, 5886, 6710, 862, 914",Regulation,Decision,False
+"1035, 1085, 1159, 2563, 4128, 863",Regulation,Decision,False
+"1565, 1895, 2763, 4256, 4257",Decision,Regulation,False
+"1708, 2338, 3483, 3588, 3870, 3878, 4778, 575, 7137",Decision,Regulation,False
+"1509, 2084, 4452, 616, 6626",Decision,Regulation,False
+"2247, 5283, 5575, 5844, 979",Decision,Regulation,False
+"1590, 5451, 6052, 6569",Decision,Regulation,False
+"2450, 2590, 2833, 3565, 3870, 5458, 6922",Decision,Regulation,False
+"255, 2701, 5328, 5954",Decision,Regulation,False
+"2173, 2493, 2938, 3068, 4708, 4734, 5283, 755",Decision,Regulation,False
+"5577, 7982",Decision,Regulation,False
+"12, 161, 2089, 2901, 5403",Decision,Regulation,False
+"1595, 191, 2827",Directive,Decision,False
+"1074, 2041, 2352, 2868",Directive,Decision,False
+"2736, 2836, 6569, 893",Directive,Regulation,False
+"2081, 2985, 4474, 5451",Directive,Regulation,False
+"2081, 2985, 4474, 5451",Directive,Regulation,False
+"2081, 2985, 5451",Directive,Regulation,False
+"1115, 1602, 2078, 2723, 3469, 3646, 3885",Directive,Regulation,False
+"1158, 192, 2435, 2737, 3115, 343",Regulation,Decision,False
+"1584, 1591, 2247, 5646, 5969",Regulation,Decision,False
+"1895, 2947, 4258, 5672, 718, 773",Regulation,Decision,False
+"12, 1463, 3064, 5561, 5563, 862",Regulation,Decision,False
+"192, 568, 6100, 6790",Regulation,Decision,False
+"2735, 4284, 5283, 807, 826",Regulation,Decision,False
+"1048, 1154, 3559, 4274, 5251, 5315, 5769, 60, 6913",Regulation,Decision,False
+"1519, 1530, 3181, 5796",Regulation,Decision,False
+"5455, 6360, 665, 729",Decision,Regulation,False
+"1445, 1821, 4821, 5034, 5334, 893",Decision,Regulation,False
+"1309, 1446, 1591, 2771, 3805, 519, 5876",Decision,Regulation,False
+"12, 161, 2450, 2901, 4160, 4836",Decision,Regulation,False
+"2450, 2487, 2488, 4375, 6400",Decision,Regulation,False
+"1182, 1684, 2173, 4373, 666, 797",Decision,Regulation,False
+"1309, 1767, 1837, 2696, 2746, 2771, 4453",Decision,Regulation,False
+"2338, 249, 3483, 3588, 5788",Decision,Regulation,False
+"1708, 2338, 3870, 3878, 575, 7137",Decision,Regulation,False
+"1442, 3732, 5451, 5768, 6268, 6569, 888",Decision,Regulation,False
+"2019, 5532",Decision,Regulation,False
+"2477, 2938, 3068, 3069, 4708, 4734, 5283, 755",Decision,Regulation,False
+"1442, 2729, 3732, 5451, 5768, 6268, 6569, 888",Decision,Regulation,False
+"1445, 2356, 2560, 3584, 3763, 4692, 613, 6307, 6322",Decision,Regulation,False
+"1026, 1048, 2300, 3843, 4271, 5251",Decision,Regulation,False
+"1837, 2783, 3892, 3893, 5300, 990",Directive,Regulation,False
+"2081, 2773, 2985, 3810, 5451, 867",Directive,Decision,False
+"1800, 2602, 3246",Directive,Decision,False
+"1252, 4653, 4654, 5235, 5593, 5726",Directive,Decision,False
+"1021, 2883, 3017, 4432, 4585, 5206",Directive,Decision,False
+"1442, 3660, 4687, 5283",Regulation,Decision,False
+"1445, 1755, 1854, 192, 4320, 5034, 6112",Regulation,Decision,False
+"2825, 3428, 5519, 5640, 5643, 5864",Regulation,Decision,False
+"2081, 2121, 5581, 720",Regulation,Decision,False
+"1445, 192, 2081, 2324, 2735, 2737, 3763, 5063, 893",Decision,Regulation,False
+"1031, 13, 5451, 6296",Decision,Regulation,False
+"1442, 1565, 2324, 4681, 5063, 619, 6307, 656",Decision,Regulation,False
+"2338, 306, 3483, 3588, 5788, 7137",Decision,Regulation,False
+"1159, 3774, 4790, 5228, 5229, 544, 598",Decision,Regulation,False
+"2938, 3068, 4708, 5283, 5575, 755",Decision,Regulation,False
+"191, 2357, 5227, 5451",Directive,Decision,False
+"1595, 191, 2081, 2357, 2773, 2985, 2987, 616",Directive,Decision,False
+"225, 2338, 2647, 3483, 3588, 3870, 4782",Regulation,Decision,False
+"1164, 3119, 4055, 5158, 929",Regulation,Decision,False
+"1261, 1309, 191, 2081, 2300, 5369",Regulation,Decision,False
+"192, 2739, 3730, 4308, 616, 867",Regulation,Decision,False
+"1155, 2984, 3083, 336, 3682, 933",Regulation,Decision,False
+"1035, 1159, 2455, 3003, 3641, 4829, 5229",Regulation,Decision,False
+"1590, 1662, 2735, 2836, 3730, 6039",Regulation,Decision,False
+"1432, 3483, 3870, 4779, 7",Regulation,Decision,False
+"1025, 1085, 1354, 2689, 5034",Regulation,Decision,False
+"1755, 1854, 192, 2871, 4225, 4509, 5726, 6307",Regulation,Decision,False
+"3130, 3468, 3482, 4522, 5420",Regulation,Decision,False
+"4790, 4839, 5228, 544, 598",Decision,Regulation,False
+"1590, 1744, 2735, 4839, 5451, 5768, 6569",Decision,Regulation,False
+"264, 268, 3119, 4324, 6626",Decision,Regulation,False
+"195, 3614, 4003, 4005, 5405, 5796",Decision,Regulation,False
+"1519, 1810, 20, 4133, 5581, 75",Decision,Regulation,False
+"4324, 616, 6626",Decision,Regulation,False
+"1394, 3069, 479, 5283, 5844",Decision,Regulation,False
+"1744, 4353, 5451, 5768, 6569",Decision,Regulation,False
+"1309, 2771, 3810, 519, 5876, 5946, 765",Decision,Regulation,False
+"1708, 2338, 306, 3483, 3588, 4778, 7137",Decision,Regulation,False
+"1708, 2338, 306, 3870, 4778, 7137",Decision,Regulation,False
+"1159, 1871, 2041, 2437, 3544, 4829, 5228, 5706",Decision,Regulation,False
+"475, 5581, 5619, 5707, 747",Directive,Decision,False
+"1000, 1158, 1425, 1833, 2947, 4038, 5519, 616, 718, 849",Directive,Decision,False
+"191, 2081, 2739, 2773, 2985, 5451",Directive,Decision,False
+"2081, 2773, 2825, 2985, 3139, 5740, 5877, 7126",Directive,Decision,False
+"1309, 2771, 3824, 4048, 4079, 5713",Regulation,Decision,False
+"206, 2602, 4585, 616",Regulation,Decision,False
+"1076, 1476, 3003, 5541, 616, 889",Regulation,Decision,False
+"1445, 1598, 192, 2300, 3579, 5283, 5760",Regulation,Decision,False
+"1258, 192, 2737, 4163, 4224",Regulation,Decision,False
+"192, 2739, 3135, 3730, 4308, 5334, 867",Regulation,Directive,False
+"1309, 1445, 1596, 1598, 5369, 5760",Regulation,Decision,False
+"1005, 1339, 1596, 1755, 1857, 5283",Regulation,Decision,False
+"1265, 1309, 1442, 1590, 2735, 5581",Regulation,Decision,False
+"1005, 1052, 2443, 6013",Regulation,Decision,False
+"11, 1106, 1110, 1642, 2300, 4160, 5367, 6621, 888",Regulation,Decision,False
+"3645, 3774, 4734, 5018, 5683, 6315",Regulation,Decision,False
+"1804, 2577, 4125, 4256, 5110, 5455, 5519",Regulation,Decision,False
+"161, 2738, 3191, 4686, 5469, 5563, 5695, 5713, 5746, 5892",Regulation,Decision,False
+"4353, 6151, 6332, 665, 729",Decision,Regulation,False
+"2076, 2825, 2869, 2897, 3140, 3144, 600, 616",Decision,Directive,False
+"1026, 1048, 2300, 4271, 5251",Decision,Regulation,False
+"2041, 2047, 2282, 2611, 2868, 3129, 3139, 4827, 5889, 6911",Decision,Regulation,False
+"1414, 20, 2286, 3489, 3737, 3765, 4133, 475, 476",Decision,Regulation,False
+"13, 1596, 2081, 2773, 2985, 4308, 5451",Decision,Directive,False
+"12, 1252, 1279, 1565, 1590, 2324, 3763, 5063, 666",Decision,Regulation,False
+"1590, 1744, 5451, 5768, 5860, 6569, 893",Decision,Regulation,False
+"1595, 191, 2081, 2357, 2773, 2985",Directive,Decision,False
+"13, 1594, 1596, 2773, 2985, 5451",Directive,Decision,False
+"191, 2081, 2773, 2985, 5070, 616",Directive,Decision,False
+"1425, 2783, 2871, 5283, 5573, 893, 990",Directive,Regulation,False
+"1837, 2783, 3892, 3893, 5300, 6272, 893, 990",Directive,Regulation,False
+"13, 1595, 2357, 2773, 2985",Directive,Decision,False
+"2300, 3579, 5765, 5946, 5969",Regulation,Decision,False
+"142, 2715, 3139, 3861, 477, 642",Regulation,Decision,False
+"1164, 1488, 226, 4055, 431, 45, 5499, 5519, 5640, 5643",Regulation,Decision,False
+"1158, 1439, 2797, 5336, 6103",Regulation,Decision,False
+"2602, 3581, 4522, 802",Regulation,Decision,False
+"1277, 1590, 3730, 5451, 6052, 6322, 842",Regulation,Directive,False
+"1631, 2871, 2897, 5726, 764, 893",Regulation,Directive,False
+"1091, 1665, 2084, 3191, 5019, 597, 606, 932",Regulation,Decision,False
+"1159, 2455, 5229, 763",Regulation,Decision,False
+"5455, 6360, 665, 729",Decision,Regulation,False
+"2452, 4115, 5455, 5883, 665",Decision,Regulation,False
+"1141, 1500, 2366, 2772, 3483, 3870, 5788, 614",Decision,Regulation,False
+"1394, 2443, 3069, 479, 5844",Decision,Regulation,False
+"1252, 2211, 3647, 4360, 4488, 5252, 6307, 849",Decision,Regulation,False
+"2224, 2295, 2450, 2590, 3077, 5585",Decision,Regulation,False
+"1707, 2527, 3140, 5650, 5782, 5794, 6400",Decision,Regulation,False
+"1035, 1159, 4788, 5228, 5254, 598, 863",Decision,Regulation,False
+"217, 3317, 483, 566, 6274, 8480",Decision,Regulation,False
+"1277, 1590, 1744, 3730, 5451, 5768, 6569, 893",Decision,Regulation,False
+"1567, 1899, 206, 2095, 2739, 2771, 5581",Decision,Regulation,False
+"2057, 2095, 2465, 5083, 7813",Decision,Regulation,False
+"1026, 1048, 2300, 4271, 4390, 5251",Decision,Regulation,False
+"191, 5227, 5451",Directive,Decision,False
+"191, 2987, 5451",Directive,Decision,False
+"1284, 1425, 1552, 1590, 5573, 6052",Directive,Regulation,False
+"2081, 2985, 5070, 616, 867, 92",Directive,Decision,False
+"1309, 1595, 1662, 2357, 2739, 4308, 5451, 946",Regulation,Decision,False
+"225, 2338, 2647, 3483, 3870, 4782, 584",Regulation,Decision,False
+"217, 2701, 3942, 5283, 571, 960",Regulation,Decision,False
+"2897, 3645, 4408, 4505, 4511, 5234, 5887",Regulation,Directive,False
+"1755, 1919, 192, 4152",Regulation,Decision,False
+"1154, 3645, 5188, 5283, 5540, 616, 6626",Regulation,Decision,False
+"1708, 2704, 3489, 3870, 4778, 575, 7137",Regulation,Decision,False
+"1591, 2771, 3191, 5745, 5969",Regulation,Decision,False
+"1277, 1596, 1598, 6052",Regulation,Directive,False
+"2735, 4284, 5283, 807, 826, 862",Regulation,Decision,False
+"1252, 3110, 4261, 441, 4654, 5650, 6400, 744",Regulation,Decision,False
+"1445, 1598, 1937, 2211, 2891, 5252, 616, 6307",Regulation,Decision,False
+"1895, 4258, 4300, 4359, 45, 6030, 616, 813",Regulation,Decision,False
+"1224, 1277, 1590, 1596, 1598, 5451, 6052, 768",Regulation,Directive,False
+"1021, 1069, 2783, 3584, 4079, 5040, 5367, 893",Decision,Regulation,False
+"1639, 225, 2337, 2338, 3483, 3870, 584",Decision,Regulation,False
+"1524, 206, 4488, 4502, 5181, 5404, 5545, 5595",Decision,Regulation,False
+"2337, 2338, 3483, 3870, 4354",Decision,Regulation,False
+"1216, 2095, 381, 5083, 704, 7813",Decision,Regulation,False
+"2338, 3483, 4354",Decision,Regulation,False
+"1634, 2910, 372, 3763, 4562, 5974, 863",Decision,Regulation,False
+"1360, 1518, 4210, 5451, 6789",Decision,Regulation,False
+"2366, 3483, 3584, 3870, 4354, 729, 950",Decision,Regulation,False
+"1166, 1338, 1445, 1644, 1729, 1841, 1907, 2121, 2531, 2718, 3191, 4164, 4580, 4747, 4841, 6268, 6569",Decision,Regulation,False
+"3483, 3870, 4452",Decision,Regulation,False
+"1216, 2647, 3483, 3577, 3870",Decision,Regulation,False
+"1646, 2563, 2910, 3516, 3820, 3873, 723, 8549",Decision,Regulation,False
+"2378, 2771, 3191, 4653, 519, 5969, 932",Decision,Regulation,False
+"1707, 2715, 5618, 5870, 754",Decision,Regulation,False
+"1596, 2081, 2985, 5070, 5227, 616",Directive,Decision,False
+"2081, 2987, 5070, 616",Directive,Regulation,False
+"4003, 4004, 4005, 4274",Directive,Regulation,False
+"191, 2081, 3139, 3730, 5227, 5451",Directive,Decision,False
+"191, 2081, 3139, 3730, 5227, 5451",Directive,Decision,False
+"1224, 1277, 1590, 1596, 1598, 5451, 6052",Regulation,Directive,False
+"1755, 1854, 192, 3885, 4125",Regulation,Decision,False
+"3430, 3641, 4514, 4657, 5726, 5864",Regulation,Decision,False
+"1164, 3119, 4055, 5769, 929",Regulation,Decision,False
+"1052, 2443, 441, 453, 6088",Regulation,Decision,False
+"1284, 1524, 1590, 192, 2539, 2735, 3191, 3730, 4036, 921",Regulation,Decision,False
+"1005, 1394, 3069, 3600",Regulation,Decision,False
+"1005, 1542, 1958, 2965, 754, 766",Regulation,Decision,False
+"1639, 3483, 3506, 3870, 4496",Regulation,Decision,False
+"192, 2115, 3660, 5877",Regulation,Decision,False
+"191, 2987, 3618, 5451",Regulation,Decision,False
+"3483, 3862, 3870, 4452",Regulation,Decision,False
+"1425, 2300, 2734, 2803, 3299, 5070, 5640",Regulation,Decision,False
+"1445, 1919, 192, 2988, 4152, 4635, 4636, 6152",Regulation,Decision,False
+"1425, 1442, 192, 2849, 4210, 4773, 7130, 893",Regulation,Decision,False
+"1005, 1275, 1952, 2382, 3240, 6064, 816",Regulation,Decision,False
+"1091, 3191, 3349, 3351, 5636",Regulation,Decision,False
+"1796, 1798, 20, 2218, 5725",Decision,Regulation,False
+"3483, 3870, 690",Decision,Regulation,False
+"1117, 1442, 2531, 3173, 5573, 5618, 5870, 601, 893",Decision,Regulation,False
+"2888, 4713, 4726, 5573, 888, 893",Decision,Regulation,False
+"2735, 5451, 6052, 6569, 893",Decision,Regulation,False
+"191, 2115, 2530, 3730, 5227, 5451",Directive,Decision,False
+"2864, 4193, 4884, 5070, 5581, 6013, 61, 6756",Directive,Decision,False
+"191, 5045, 5451",Directive,Decision,False
+"1386, 191, 3139, 3730, 5227, 5451",Directive,Decision,False
+"191, 2739, 2773, 2985, 3139, 3730, 5451",Directive,Decision,False
+"1445, 1644, 2525, 3191, 4743, 5369",Regulation,Decision,False
+"1201, 1284, 2718, 3618, 80, 889",Regulation,Decision,False
+"13, 3628, 3633, 4317, 4319, 5334, 5581",Regulation,Decision,False
+"3135, 3730, 3817, 4036, 5451",Regulation,Decision,False
+"1445, 1569, 2212, 2737, 3191, 3614, 5369, 666",Regulation,Decision,False
+"2602, 2911, 5481, 7937",Regulation,Decision,False
+"177, 2537, 2739, 4308, 5227, 5451",Regulation,Decision,False
+"191, 2357, 5451",Regulation,Decision,False
+"4125, 4257, 4359, 5070, 5334, 5441, 8459",Regulation,Decision,False
+"1445, 1644, 2356, 2738, 3191, 4689, 4692, 5563",Regulation,Decision,False
+"1564, 192, 5451, 616, 619",Regulation,Decision,False
+"192, 2274, 463, 5451, 6569",Regulation,Decision,False
+"4452, 5334, 5898",Regulation,Decision,False
+"191, 2746, 2754, 2771, 3191, 4079, 4509, 5969",Decision,Regulation,False
+"1092, 1442, 2735, 4682, 4684, 6260, 763, 922",Decision,Regulation,False
+"1141, 2366, 3483, 3584, 3870, 4354, 4496",Decision,Regulation,False
+"1224, 3810, 463, 5451, 5967",Decision,Regulation,False
+"11, 1492, 2602, 4258, 4262, 4671, 5618, 5870",Decision,Regulation,False
+"2248, 4322, 4750, 697",Decision,Regulation,False
+"1895, 2198, 4258, 4509, 4533, 4651, 5334, 5589, 5618, 5870, 5908, 6030",Decision,Regulation,False
+"1182, 2081, 4692, 5235, 5263",Decision,Regulation,False
+"1445, 4079, 502, 5283, 5649",Decision,Regulation,False
+"192, 2735, 2871, 6569, 7126",Decision,Regulation,False
+"1744, 2735, 5451, 6296, 6569, 893",Decision,Regulation,False
+"3173, 4860, 5573, 5860",Decision,Regulation,False
+"1372, 2615, 4488, 5856, 5926",Decision,Regulation,False
+"3139, 3730, 5227, 5451, 5612",Directive,Regulation,False
+"12, 2897, 5563, 754",Directive,Decision,False
+"12, 2897, 2906, 5563, 8469",Directive,Decision,False
+"2326, 3160, 3645, 4653, 5324, 5383",Directive,Decision,False
+"1158, 1425, 1880, 2205, 3836, 5410, 5451, 6411, 893",Directive,Regulation,False
+"191, 2357, 2985, 5451",Regulation,Decision,False
+"192, 3135, 3730, 4307, 5451, 7135",Regulation,Decision,False
+"1085, 1961, 5573",Regulation,Decision,False
+"3483, 3870, 4779, 5124, 6117",Regulation,Decision,False
+"172, 4424, 5235, 859",Regulation,Decision,False
+"1425, 1442, 192, 2735, 7130, 893",Regulation,Decision,False
+"1204, 1425, 2320, 5233, 568, 6100, 6790, 893",Regulation,Decision,False
+"180, 1826, 3646, 5235, 5726",Regulation,Decision,False
+"191, 2987, 5451",Regulation,Decision,False
+"191, 3618, 5227, 5451, 5877",Regulation,Decision,False
+"1387, 1837, 192, 3730, 3817, 4307, 5451",Regulation,Decision,False
+"1800, 1811, 3246, 5334, 6151",Decision,Regulation,False
+"11, 1188, 1642, 1644, 2381, 5368, 5542, 6268",Decision,Regulation,False
+"2081, 5451, 6569, 6789",Decision,Regulation,False
+"1644, 2300, 2735, 2737, 3191",Decision,Regulation,False
+"1346, 3483, 3870, 4238, 5876, 5946, 6930",Decision,Regulation,False
+"1335, 155, 2141, 4827, 5612, 5889",Decision,Regulation,False
+"1474, 2329, 2556, 2850, 2901, 4148, 4790, 544, 5537",Decision,Regulation,False
+"2081, 2277, 5451, 6569, 6789",Decision,Regulation,False
+"3558, 394, 5059, 5825",Decision,Regulation,False
+"3483, 4216, 4238, 4503, 5946, 6930",Decision,Regulation,False
+"1639, 3483, 3870",Decision,Regulation,False
+"3558, 394, 5059, 5825",Decision,Regulation,False
+"1188, 161, 1961, 2771, 3180, 3191, 5581",Decision,Regulation,False
+"1217, 1474, 2308, 2556, 2850, 3466, 4790, 5407, 544, 5537",Decision,Regulation,False
+"1275, 2382, 3649, 4651, 8386",Decision,Regulation,False
+"133, 216, 2282, 2300, 4841, 5229",Decision,Regulation,False
+"2081, 5451, 6569, 6789",Decision,Regulation,False
+"2308, 2556, 2850, 3466, 4048, 4790, 5108, 5407, 544, 5537",Decision,Regulation,False
+"1833, 2428, 50, 5383, 5451",Directive,Decision,False
+"1828, 1880, 2081, 2192, 2947, 4347, 5601, 5726, 6103, 6411",Directive,Decision,False
+"1759, 192, 5234, 5293",Directive,Decision,False
+"1270, 191, 2985, 5451",Regulation,Decision,False
+"2560, 2656, 5034, 5263, 6004",Regulation,Decision,False
+"191, 2357, 2739, 3190, 3191, 4308, 5451",Regulation,Decision,False
+"1158, 1445, 2737, 3191, 3885, 4036, 4224, 5369, 5877",Regulation,Decision,False
+"191, 2739, 2985, 5451",Regulation,Decision,False
+"1374, 1442, 1755, 1857, 2560, 3730, 5263",Regulation,Decision,False
+"3483, 3506, 3870, 4779, 7",Regulation,Decision,False
+"2771, 3191, 5100, 519, 8412, 888",Regulation,Decision,False
+"177, 2527, 3461, 434880, 435007, 4408, 4519, 5581, 5650",Regulation,Decision,False
+"1036, 2040, 3346, 4509, 5210, 889",Regulation,Decision,False
+"1423, 1826, 494, 5383, 5726",Regulation,Decision,False
+"12, 2326, 3645, 50, 5481, 5563",Regulation,Decision,False
+"191, 2357, 5451",Regulation,Decision,False
+"1445, 2081, 2735, 2954, 4125, 5369, 5396",Regulation,Decision,False
+"2771, 3191, 3579, 5876, 5946, 6930",Regulation,Decision,False
+"1445, 1961, 3191, 3579, 3730, 4580",Regulation,Decision,False
+"191, 2357, 2739, 5451",Regulation,Decision,False
+"1052, 13, 1377, 2308, 2320, 2455, 2718, 3129, 4126, 4128",Regulation,Decision,False
+"1052, 1302, 1469, 2862, 3347, 3645, 4843, 5552, 5589, 5597, 5856",Regulation,Decision,False
+"1425, 192, 2735, 4733, 5451, 6789",Regulation,Decision,False
+"2192, 3143, 3646, 4033, 4533, 468, 5235",Regulation,Decision,False
+"1800, 3083, 3424, 3682, 4298, 6030, 623, 937",Regulation,Decision,False
+"1839, 4338, 5233, 5463, 5464, 5958, 8412, 941",Regulation,Decision,False
+"1085, 1519, 1712, 3359, 336, 3751, 4028",Regulation,Decision,False
+"1438, 5648, 6256, 665, 8434",Decision,Regulation,False
+"2715, 2825, 343, 5672, 6700",Directive,Decision,False
+"1395, 1425, 3730, 4374, 5739, 720, 893",Directive,Decision,False
+"1391, 2739, 3646, 3730, 4036, 4308, 5234, 5235, 758",Directive,Decision,False
+"1042, 1224, 1442, 1880, 2428, 3135, 4081, 4084, 5227, 6569",Regulation,Decision,False
+"4258, 4263, 5455, 5883, 6030, 616, 92",Regulation,Decision,False
+"191, 2739, 2985",Regulation,Decision,False
+"192, 4062, 4733, 5451, 5967, 6789",Regulation,Decision,False
+"1445, 1644, 2737, 3191, 3614, 4743, 6268, 8464, 888",Regulation,Decision,False
