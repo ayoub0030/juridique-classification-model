@@ -10,6 +10,10 @@ import pickle
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# Define a tokenizer function at the global scope for pickling
+def concept_tokenizer(text):
+    return text.split(', ')
+
 # Load the dataset
 def load_data(excel_file_path):
     print(f"Loading data from {excel_file_path}...")
@@ -63,7 +67,7 @@ def split_data(df, test_size=0.2, random_state=42):
 def extract_features(X_train, X_test):
     # Convert concepts to bag-of-words features
     # We'll treat each concept number as a "word"
-    vectorizer = CountVectorizer(tokenizer=lambda x: x.split(', '))
+    vectorizer = CountVectorizer(tokenizer=concept_tokenizer)
     X_train_features = vectorizer.fit_transform(X_train)
     X_test_features = vectorizer.transform(X_test)
     
@@ -162,7 +166,7 @@ def predict_type(concept_numbers, model, vectorizer, label_encoder):
 # Main function
 def main():
     # Load data from Excel file
-    excel_file_path = 'dataset_output.xlsx'
+    excel_file_path = 'expanded_dataset.xlsx'
     df = load_data(excel_file_path)
     
     # Preprocess data

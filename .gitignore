@@ -1,0 +1,41 @@
+# Ignore dataset folder
+dataset_folder/
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Excel temp files
+~$*.xlsx
+
+# Model files
+# Uncomment below line if you don't want to include the model in Git
+# *.pkl
