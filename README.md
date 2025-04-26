@@ -1,6 +1,7 @@
 # Legal Document Classification Project
 
 This project implements a machine learning model to classify legal documents based on their concept numbers. The model predicts the type of document (e.g., Decision, Regulation, Directive) using the associated concept codes.
+![image](https://github.com/user-attachments/assets/c32e303b-645c-4788-a260-9145bedda68d)
 
 ## Project Structure
 
