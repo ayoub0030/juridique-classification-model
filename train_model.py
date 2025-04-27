@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.preprocessing import LabelEncoder
 from sklearn.multiclass import OneVsRestClassifier
@@ -49,79 +48,25 @@ def preprocess_data(df):
     
     return df, label_encoder
 
-# Split the data into training and testing sets
-def split_data(df, test_size=0.2, random_state=42):
-    X = df['concepts']
-    y = df['type_encoded']
-    
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=test_size, random_state=random_state, stratify=y
-    )
-    
-    print(f"Training set size: {len(X_train)}")
-    print(f"Testing set size: {len(X_test)}")
-    
-    return X_train, X_test, y_train, y_test
-
 # Feature extraction
-def extract_features(X_train, X_test):
+def extract_features(X):
     # Convert concepts to bag-of-words features
     # We'll treat each concept number as a "word"
     vectorizer = CountVectorizer(tokenizer=concept_tokenizer)
-    X_train_features = vectorizer.fit_transform(X_train)
-    X_test_features = vectorizer.transform(X_test)
+    X_features = vectorizer.fit_transform(X)
     
     print(f"Number of features (unique concept numbers): {len(vectorizer.get_feature_names_out())}")
     print(f"Feature names (first 10): {vectorizer.get_feature_names_out()[:10]}")
     
-    return X_train_features, X_test_features, vectorizer
+    return X_features, vectorizer
 
 # Train the model
-def train_model(X_train_features, y_train):
+def train_model(X_features, y):
     print("Training the model...")
     model = OneVsRestClassifier(LogisticRegression(solver='liblinear', max_iter=1000))
-    model.fit(X_train_features, y_train)
+    model.fit(X_features, y)
     print("Model training completed.")
     return model
-
-# Evaluate the model
-def evaluate_model(model, X_test_features, y_test, label_encoder):
-    print("Evaluating the model...")
-    
-    # Make predictions
-    y_pred = model.predict(X_test_features)
-    
-    # Calculate accuracy
-    accuracy = accuracy_score(y_test, y_pred)
-    print(f"Accuracy: {accuracy:.4f}")
-    
-    # Classification report
-    report = classification_report(
-        y_test, 
-        y_pred, 
-        target_names=label_encoder.classes_,
-        zero_division=0
-    )
-    print("Classification Report:")
-    print(report)
-    
-    # Confusion matrix
-    cm = confusion_matrix(y_test, y_pred)
-    plt.figure(figsize=(10, 8))
-    sns.heatmap(
-        cm, 
-        annot=True, 
-        fmt='d', 
-        xticklabels=label_encoder.classes_,
-        yticklabels=label_encoder.classes_
-    )
-    plt.xlabel('Predicted')
-    plt.ylabel('True')
-    plt.title('Confusion Matrix')
-    plt.savefig('confusion_matrix.png')
-    print("Confusion matrix saved as 'confusion_matrix.png'")
-    
-    return accuracy, report
 
 # Save the model and vectorizer for later use
 def save_model(model, vectorizer, label_encoder):
@@ -172,17 +117,16 @@ def main():
     # Preprocess data
     df, label_encoder = preprocess_data(df)
     
-    # Split data
-    X_train, X_test, y_train, y_test = split_data(df)
+    # Use all data for training (no train/test split)
+    X = df['concepts']
+    y = df['type_encoded']
+    print(f"Using all {len(X)} examples for training")
     
     # Extract features
-    X_train_features, X_test_features, vectorizer = extract_features(X_train, X_test)
+    X_features, vectorizer = extract_features(X)
     
-    # Train model
-    model = train_model(X_train_features, y_train)
-    
-    # Evaluate model
-    evaluate_model(model, X_test_features, y_test, label_encoder)
+    # Train model using all data
+    model = train_model(X_features, y)
     
     # Save model
     save_model(model, vectorizer, label_encoder)
