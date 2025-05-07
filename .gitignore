@@ -1,6 +1,14 @@
 # Ignore dataset folders
 dataset_folder/
 test-dataset/
+
+# Ignore BERT data and models
+bert_data/
+bert_model/
+*.csv
+*.pkl
+text_extraction_progress.json
+bert_extraction_progress.json
 # Python-related files
 __pycache__/
 *.py[cod]
