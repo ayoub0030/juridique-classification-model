@@ -1,0 +1,32 @@
+[
+  {
+    "index": 0,
+    "prediction": "Decision",
+    "probabilities": {
+      "Decision": 0.97,
+      "Directive": 0.02,
+      "Regulation": 0.01
+    },
+    "true_label": "Regulation"
+  },
+  {
+    "index": 1,
+    "prediction": "Decision",
+    "probabilities": {
+      "Decision": 0.73,
+      "Directive": 0.2,
+      "Regulation": 0.07
+    },
+    "true_label": "Directive"
+  },
+  {
+    "index": 2,
+    "prediction": "Decision",
+    "probabilities": {
+      "Decision": 0.98,
+      "Directive": 0.02,
+      "Regulation": 0.0
+    },
+    "true_label": "Decision"
+  }
+]
